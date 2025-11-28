@@ -1,4 +1,4 @@
-# bot_by_nickname.py
+a# bot_by_nickname.py
 import asyncio
 import json
 import httpx
@@ -7,7 +7,7 @@ from aiogram.types import Message, WebAppInfo, InlineKeyboardButton, InlineKeybo
 from aiogram.filters import Command
 
 BOT_TOKEN = "8567793904:AAEpdovaNgQJtHQNpz0CowSIWE5EU7S8vvU"  # ← Замени!
-WEB_APP_URL = "https://your-web-app.onrender.com"  # ← Ссылка на твой Web App
+WEB_APP_URL = "https://tanksblitzbot.onrender.com/"  # ← Ссылка на твой Web App
 
 router = Router()
 
