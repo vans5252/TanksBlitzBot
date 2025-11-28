@@ -1,4 +1,4 @@
-a# bot.py
+# bot.py
 import asyncio
 import json
 import httpx
